@@ -14,27 +14,15 @@
 
 ## 👨‍💻 About Me
 
-```python
-class Naveenkanth:
-    def __init__(self):
-        self.name = "Naveenkanth Gnanasekar"
-        self.location = "Morden, London, UK"
-        self.degree = "BSc (Hons) Computer Science @ Sheffield Hallam University"
-        self.year = "Year 2 (2024 – 2028 expected)"
-        self.seeking = "Placement Year — Python/Backend & Frontend Developer"
-        self.stack = ["Python", "C#", "C", "PHP", "HTML", "CSS", "JavaScript", "React Native"]
-        self.currently_doing = [
-            "Building full-stack apps in group & client projects",
-            "Strengthening AI/ML fundamentals with Python & datasets"
-        ]
-        self.fun_fact = "Built a hackathon app for Alzheimer's care in 24 hours (Code For All x Lilly, London)"
+Hi, I'm **Naveenkanth** 👋 — a second-year **BSc (Hons) Computer Science** student at **Sheffield Hallam University**, based in **Morden, London**.
 
-    def motto(self):
-        return "Learn by building, ship real things for real people."
+I'm currently seeking a **Placement Year as a Python/Backend & Frontend Developer**, ideally in London. I've picked up hands-on full-stack experience with **React Native and PHP** through a live client project, alongside strong foundations in **C#, C, and Python**, plus growing skills in AI/ML and data-driven programming.
 
-me = Naveenkanth()
-print(me.motto())
-```
+🌱 Right now I'm building full-stack apps in group and client projects, and strengthening my AI/ML fundamentals with Python and real datasets.
+
+💡 Fun fact: I once built a hackathon app for Alzheimer's care in 24 hours.
+
+> *"Learn by building, ship real things for real people."*
 
 <br clear="right"/>
 
